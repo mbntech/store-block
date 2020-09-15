@@ -3,5 +3,7 @@
   "editor.countdown.description": "Componente de contagem regressiva",
   "countdown.title": "Contagem Regressiva",
   "editor.countdown-title.title": "Countdown title",
-  "editor.countdown-title.description": "Title component"
+  "editor.countdown-title.description": "Title component",
+  "editor.instagram.title": "Instagram",
+  "editor.instagram.description": "Instagram component"
 }

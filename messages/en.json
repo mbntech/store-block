@@ -3,5 +3,7 @@
   "editor.countdown.description": "Countdown component",
   "countdown.title": "Countdown",
   "editor.countdown-title.title": "Countdown title",
-  "editor.countdown-title.description": "Title component"
+  "editor.countdown-title.description": "Title component",
+  "editor.instagram.title": "Instagram",
+  "editor.instagram.description": "Instagram component"
 }
